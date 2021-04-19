@@ -1,0 +1,15 @@
+#barra_nav{
+    font-size: 30px;
+
+}
+
+#nombre{
+    font-size: 70px;
+    font-weight: normal;
+}
+
+a{
+    text-decoration: none;
+    color:red ;
+}
+
