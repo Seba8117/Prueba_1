@@ -10,6 +10,17 @@
 
 a{
     text-decoration: none;
-    color:red ;
+    color: crimson ;
 }
 
+#uno{
+    background-color: crimson;
+}
+
+img{
+    padding: 20px;
+}
+
+#dos{
+    background-color: rgb(138, 16, 41);
+}
