@@ -10,7 +10,7 @@
 
 a{
     text-decoration: none;
-    color: crimson ;
+    color: white ;
 }
 
 #uno{
@@ -19,6 +19,7 @@ a{
 
 img{
     padding: 20px;
+    
 }
 
 #dos{
@@ -29,8 +30,13 @@ p{
     font-size: 40px;
     padding: 30px;
 
+
 }
 
 li{
     font-size:30px ;
+}
+
+#destacado{
+    color: rgb(214, 214, 29);
 }
